@@ -1,20 +1,4 @@
 
-
-Name: eee, Mail: gf, Username: eee, Password: rfrr, Security: ggg
-Name: mukul, Mail: dffgh, Username: hhh, Password: ggg, Security: tyuu
-Name: Mukul Kushwaha, Mail: kymuku6@gmail.com, Username: muku11, Password: 1234, Security: golu
-Name: Mukul, Mail: kymuku6@gmail.com, Username: muku, Password: 1234, Security: golu
-Name: Mukul, Mail: kymuk@gmail.com, Username: muku, Password: 12345, Security: golu
-Name: mukul, Mail: muku@gmail.com, Username: muku, Password: 12345, Security: golu
-Name: Richa, Mail: richa@gmail.com, Username: richu, Password: 123456, Security: divya
-Name: hhjj, Mail: ghdhgh, Username: fgjgf, Password: ghghg, Security: df
-Name: richa, Mail: r@gmail.com, Username: r, Password: 1234, Security: m
-Name: muk, Mail: muk@gmail.com, Username: kk, Password: 123, Security: r
-Name: , Mail: , Username: , Password: , Security: 
-Name: , Mail: , Username: , Password: , Security: 
-Name: Mukul, Mail: muku@gmail.com, Username: muku, Password: 12345, Security: golu
-Name: , Mail: , Username: , Password: , Security: 
-Name: Muku, Mail: muku@gmail.com, Username: muku, Password: 12345, Security: golu
 Name: dfd, Mail: sdsd, Username: dfg, Password: fgfgf, Security: sdfsd
 Name: mukul, Mail: m@gmail.com, Username: fghfgg, Password: dfdfsfdsfds, Security: golu
 Name: mukul, Mail: m@gmail.com, Username: fghfgg, Password: dfdfsfdsfds, Security: golu
