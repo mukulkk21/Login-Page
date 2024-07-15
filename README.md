@@ -4,7 +4,7 @@
 
 # Mini Project: User Authentication System
 
-Welcome to the User Authentication System project! This repository contains a simple user authentication system built using Python's Tkinter library and MySQL for database management. The project includes functionalities for user registration, login, and password reset.
+Welcome to the User Authentication System project! This repository contains a simple user authentication system built using Python's Tkinter library and MySQL for database management. The project includes functionalities for user registration, login, quit and password reset.
 
 ## Features
 
